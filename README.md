@@ -46,8 +46,7 @@ The objective is to identify the key drivers of attrition and provide **actionab
 ---
 
 ## 📂 Project Files
-- 📊 **Power BI Dashboard:** [Download PBIX File](./HR_Attrition_Dashboard.pbix)  
-- 📑 **Dataset:** [Download Dataset](./HR_Attrition_Dataset.xlsx)
+- 📊 **Power BI Dashboard:** [Download PBIX File](HR_Attrition_Dashboard.png)  
 
 ---
 
