@@ -52,5 +52,5 @@ The objective is to identify the key drivers of attrition and provide **actionab
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](HR_Attrition_Dashboard.png)
 
